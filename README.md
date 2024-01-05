@@ -1,7 +1,7 @@
 ## 느리지만 꾸준히 나아가는 개발자 백종민입니다.
 > 지금은 제조업 회사에서 각종 레거시한 프로젝트를 최신 웹 표준 기술을 적용한 프로젝트로 재개발하고 있으며<br/>
 > Vue , Nuxt 등 프레임워크에 상관없이 개발하고 있습니다!<br/>
-> 느리더라도 꾸준히 하는게 중요하다고 생각합니다.
+> 느리더라도 포기하지 않고 꾸준히 하는게 중요하다고 생각합니다.
 
 ### 🎨 Portfolio Website <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
