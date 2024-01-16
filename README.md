@@ -5,7 +5,7 @@
 
 ### 🎨 Portfolio Website <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
-https://devmini1203.github.io/dev_mini_portfolio/
+https://devmini1203.github.io/dev-mini-portfolio/
 
 ### 🛠 Tech Stacks
 * Front-end :
