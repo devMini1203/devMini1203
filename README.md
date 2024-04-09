@@ -5,8 +5,6 @@
 
 ### 🎨 Portfolio Website <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
-https://devmini1203.github.io/dev-mini-portfolio/
-
 ### 🛠 Tech Stacks
 * Front-end :
   - FrameWork : <span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></span>
