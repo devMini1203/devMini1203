@@ -3,8 +3,6 @@
 > Vue , Nuxt 등 프레임워크에 상관없이 개발하고 있습니다!<br/>
 > 느리더라도 포기하지 않고 꾸준히 하는게 중요하다고 생각합니다.
 
-### 🎨 Portfolio Website <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
-
 ### 🛠 Tech Stacks
 * Front-end :
   - FrameWork : <span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></span>
