@@ -15,7 +15,7 @@
 - 안되면 될 때까지 붙잡고 늘어지는 핏불과 같은 끈기를 가지고 있습니다.
 - 모든 일에 긍정적인 마음을 가지고 임하고 있으며, 대화하는것을 좋아하여 주위를 밝게 만드는 매력을 가지고 있습니다.
 
-<h1 style="text-align:center;padding-top:2rem;padding-bottom:2rem"> My Skills </h1>
+<h1 style="text-align:center;padding-top:2rem;padding-bottom:2rem"> 🛠️ My Skills </h1>
 
 <div style="display:flex;justify-content:center;flex-direction: column;">
 <div style="display:flex;justify-content:center;padding-bottom:2rem;font-size:2rem;font-weight:bold">
