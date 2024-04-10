@@ -1,46 +1,105 @@
-## 느리지만 꾸준히 나아가는 개발자 백종민입니다.
-> 지금은 제조업 회사에서 각종 레거시한 프로젝트를 최신 웹 표준 기술을 적용한 프로젝트로 재개발하고 있으며<br/>
-> Vue , Nuxt 등 프레임워크에 상관없이 개발하고 있습니다!<br/>
-> 느리더라도 포기하지 않고 꾸준히 하는게 중요하다고 생각합니다.
-
-### 🛠 Tech Stacks
-* Front-end :
-  - FrameWork : <span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/><span/>
-  - Build : <span><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/></span>
-  - css : <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span>
-
-* UI :
-  - FrameWork : <span><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/ElementPlus-41A0F2?style=flat-square&logoColor=white"/></span>
-
-* Back-end :  
-  - FrameWork : <span><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/></span>
-  - DB : <span><img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></span>
-
-* Want To Learn : <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <span/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-
-* language used : <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></span>
-
-* Server : <span><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></span> <span></span>
-
-<details>
-<summary>&#128293; <b>Github Streaks: </b></summary>
-  <br>
-<p align = "center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=devMini1203&theme=monokai-metallian&locale=ko">
-</p>
-</details>
-
-<details>
-<summary>📚 <b>Github Stats: </b></summary>
 <br>
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devMini1203&&show_icons=true&theme=vue-dark&line_height=27"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMini1203&theme=vue-dark&langs_count=3">
-</p>
-</details>
 
-<br/>
+<div style="display:flex;justify-content:center">
+<h1> 👨‍💻  Front-end Developer 👨‍💻 </h1> 
+</div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=devMini1203)](https://velog.io/@devmini1203)
+- 부산의 산업자동화 전문기업에서 **프론트엔드 개발**을 맡고 있습니다.
+- 주로 **Vue.js, Nuxt.js** 등의 자바스크립트 프레임워크를 사용해 B2B 서비스 및 사내 백오피스 사이트 개발을 진행하고 있으며, 최근에는 SpringBoot와 PL/SQL를 사용해 **백엔드 개발**도 함께 맡고있습니다.
+- JavaScript도 좋지만, 개발 생산성 향상 및 타입 가드를 위해 **TypeScript**를 즐겨 사용하고 있습니다.
+- Git(GitHub & GItLab), SVN, 등 다양한 버전 관리 툴을 사용한 경험이 있습니다.
+- 개발 작업 외 리눅스 및 윈도우 서버에서의 **프로젝트 배포**와 함께 **서버 관리**도 맡고 있습니다.
+- 다양한 **UI 프레임워크**(ElementPlus, BootstrapVue, Vuetify 등)를 사용해 본 경험이 있습니다.
+- 개발자의 편한 개발과 사용자의 편의성은 반비례 하다고 생각합니다. 항상 사용자에게 더 나은 경험과 편리함을 제공하기 위해 노력하고 있습니다.
+- 구현하고자 하는 것을 성공적으로 구현했을 때의 그 쾌감을 너무 좋아합니다.
+- 안되면 될 때까지 붙잡고 늘어지는 핏불과 같은 끈기를 가지고 있습니다.
+- 모든 일에 긍정적인 마음을 가지고 임하고 있으며, 대화하는것을 좋아하여 주위를 밝게 만드는 매력을 가지고 있습니다.
+
+<h1 style="text-align:center;padding-top:2rem;padding-bottom:2rem"> My Skills </h1>
+
+<div style="display:flex;justify-content:center;flex-direction: column;">
+<div style="display:flex;justify-content:center;padding-bottom:2rem;font-size:2rem;font-weight:bold">
+Front-end
+</div>
+<div style="display:flex;justify-content:center;">
+<img src="./assets/skills/frontend/HTML5.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/CSS3.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/JS.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/TS.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/VUE.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/NUXT.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/Vuetify.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/ElementPlus.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/Webpack.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/Sass.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/Vite.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/frontend/Tailwind.png" style="width:40px;height:40px"/>
+</div>
+</div>
+
+<div style="display:flex;justify-content:center;flex-direction: column;padding-top:2rem">
+<div style="display:flex;justify-content:center;padding-bottom:2rem;font-size:2rem;font-weight:bold">
+Back-end
+</div>
+<div style="display:flex;justify-content:center;">
+<img src="./assets/skills/backend/SpringBoot.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/backend/PLSQL.png" style="width:40px;height:40px"/>
+</div>
+</div>
+
+<div style="display:flex;justify-content:center;flex-direction: column;padding-top:2rem">
+<div style="display:flex;justify-content:center;padding-bottom:2rem;font-size:2rem;font-weight:bold">
+Server & Deploy
+</div>
+<div style="display:flex;justify-content:center;">
+<img src="./assets/skills/server&deploy/Nginx.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/server&deploy/Vercel.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/server&deploy/PM2.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/server&deploy/Ubuntu.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/server&deploy/Tomcat.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/server&deploy/Docker.png" style="width:40px;height:40px"/>
+</div>
+</div>
+
+<div style="display:flex;justify-content:center;flex-direction: column;padding-top:2rem">
+<div style="display:flex;justify-content:center;padding-bottom:2rem;font-size:2rem;font-weight:bold">
+Version Controll
+</div>
+<div style="display:flex;justify-content:center;">
+<img src="./assets/skills/versionControll/Git.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/versionControll/GitHub.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/versionControll/GitLab.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/versionControll/SVN.png" style="width:50px;height:50px"/>
+</div>
+</div>
+
+<div style="display:flex;justify-content:center;flex-direction: column;padding-top:2rem">
+<div style="display:flex;justify-content:center;padding-bottom:2rem;font-size:2rem;font-weight:bold">
+Communication
+</div>
+<div style="display:flex;justify-content:center;">
+<img src="./assets/skills/communication/Notion.png" style="width:40px;height:40px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/skills/communication/Slack.png" style="width:40px;height:40px"/>
+</div>
+</div>
