@@ -1,11 +1,15 @@
-<div align="center" style="width:100%">
+<div align="center">
 <h1> Hello! i'm JongMin👏 </h1>
 
 <a href="https://github.com/devmini1203"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevmini1203&count_bg=%233D7CC8&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <br/>
 
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=devmini1203&)
+
+<center>
 <img src="/assets/img/gif/i013652326682.gif" style="width:100%;height:400px"/>
+</center>
 
 <br/>
 
