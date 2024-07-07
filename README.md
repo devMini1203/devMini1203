@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<img src="/assets/img/gif/1670149476149-dh3em5iqqmt.gif"/>
+<img src="/assets/img/gif/i013652326682.gif"/>
 </div>
 
 <br/>
