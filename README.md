@@ -9,6 +9,14 @@
 
 <br/>
 
+## Introduction 🙌
+
+Hello, I'm Baek Jong-min.
+I work as a front-end developer.
+I mainly use Vue, Nuxt frameworks, and I love them.
+In addition, although not professional, we are also developing backend using spring frameworks.
+I'm a little slower than others because I'm not smart, but I don't give up and I'm always having fun developing it.
+
 ## ✨ Front-end Stack ✨
 
 <div>
@@ -40,7 +48,5 @@
 <div>
 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmini1203&layout=compact)](https://github.com/devmini1203/github-readme-stats)
 
 </div>
