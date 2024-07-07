@@ -5,11 +5,9 @@
 
 <br/>
 
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=devmini1203&)
+<img src="/assets/img/gif/i013652326682.gif" style="width:100%;height:400px;margin:auto"/>
 
-<center>
-<img src="/assets/img/gif/i013652326682.gif" style="width:100%;height:400px"/>
-</center>
+<p><img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/action2.gif" width="100%" height="100%"/></p>
 
 <br/>
 
