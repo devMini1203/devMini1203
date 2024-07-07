@@ -5,11 +5,11 @@
 
 <br/>
 
-<p><img src="/assets/img/gif/i013652326682.gif" width="100%" height="100%"/></p>
+<p><img src="/assets/img/gif/i013652326682.gif" width="100%" height="300px"/></p>
 <!-- 
 <br/> -->
 
-## Introduction 🙌
+## 🙌 Introduction 🙌
 
 Hello, I'm Baek Jong-min. </br>
 I work as a front-end developer.😎 </br>
