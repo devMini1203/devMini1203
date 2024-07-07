@@ -6,7 +6,7 @@
 
 <br/>
 
-<p><img src="/assets/img/gif/i013652326682.gif" width="100%" height="400px"/></p>
+<p><img src="/assets/img/gif/fbbc1a264058b9ab83f7d0e93bfd502c.gif" width="100%" height="450px"/></p>
 <!-- 
 <br/> -->
 
