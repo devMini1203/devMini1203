@@ -1,5 +1,6 @@
 <div align="center">
-<h1> Hello! i'm JongMin👏 </h1>
+
+# Hello! i'm JongMin👏
 
 <a href="https://github.com/devmini1203"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevmini1203&count_bg=%233D7CC8&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
@@ -49,10 +50,11 @@ I'm a little slower than others because I'm not smart, but I don't give up and I
 
 <br/>
 
-##
+#
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmini1203&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmini1203&layout=compact&theme=tokyonight)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmini1203&show_icons=true&theme=dracula" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmini1203&layout=compact&theme=tokyonight" />
+</div>
 
 </div>
