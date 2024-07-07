@@ -5,7 +5,7 @@
 
 <br/>
 
-<p><img src="/assets/img/gif/i013652326682.gif" width="100%" height="300px"/></p>
+<p><img src="/assets/img/gif/i013652326682.gif" width="100%" height="400px"/></p>
 <!-- 
 <br/> -->
 
