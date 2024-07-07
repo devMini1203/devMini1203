@@ -5,16 +5,16 @@
 
 <br/>
 
-<img src="/assets/img/gif/i013652326682.gif" style="width:600px;height:400px"/>
+<img src="/assets/img/gif/i013652326682.gif" style="width:100%;height:400px"/>
 
 <br/>
 
 ## Introduction 🙌
 
-Hello, I'm Baek Jong-min.
-I work as a front-end developer.
+Hello, I'm Baek Jong-min. </br>
+I work as a front-end developer.😎 </br>
 I mainly use Vue, Nuxt frameworks, and I love them.
-In addition, although not professional, we are also developing backend using spring frameworks.
+In addition, although not professional, we are also developing backend using spring frameworks.</br>
 I'm a little slower than others because I'm not smart, but I don't give up and I'm always having fun developing it.
 
 ## ✨ Front-end Stack ✨
