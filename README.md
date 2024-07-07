@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="/assets/img/gif/i013652326682.gif" style="width:600px;height:300px"/>
+<img src="/assets/img/gif/i013652326682.gif" style="width:600px;height:400px"/>
 
 <br/>
 
@@ -38,5 +38,9 @@
 <div>
   <img src="https://skillicons.dev/icons?i=figma,notion,postman" />
 <div>
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmini1203&layout=compact)](https://github.com/devmini1203/github-readme-stats)
 
 </div>
