@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-<img src="/assets/img/gif/fbbc1a264058b9ab83f7d0e93bfd502c.gif"/>
+<img src="/assets/img/gif/i013652326682.gif" style="width:600px"/>
 </div>
 
 <br/>
