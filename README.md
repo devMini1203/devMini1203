@@ -49,4 +49,10 @@ I'm a little slower than others because I'm not smart, but I don't give up and I
 
 <br/>
 
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmini1203&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmini1203&layout=compact&theme=tokyonight)
+
 </div>
