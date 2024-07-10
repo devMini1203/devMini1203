@@ -27,7 +27,7 @@ I'm a little slower than others because I'm not smart, but I don't give up and I
 ## ✨ Back-end Stack ✨
 
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,java" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,java,oracle" />
 <div>
 
 ## ✨ Deployment, Server Stack ✨
