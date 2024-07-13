@@ -21,19 +21,19 @@ I'm a little slower than others because I'm not smart, but I don't give up and I
 ## ✨ Front-end Stack ✨
 
 <div>
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,tailwind,vue,nuxt,vite,webpack,scss,bootstrap,vuetify,pinia" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,tailwind,vue,nuxt,vite,webpack,scss,bootstrap,vuetify,pinia,primevue,elementplus" />
 <div>
 
 ## ✨ Back-end Stack ✨
 
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,java,oracle" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,java,oracle,plsql" />
 <div>
 
 ## ✨ Deployment, Server Stack ✨
 
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,vercel,ubuntu,docker,linux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,vercel,ubuntu,docker,linux,tomcat" />
 <div>
 
 ## ✨ Version Controll Stack ✨
